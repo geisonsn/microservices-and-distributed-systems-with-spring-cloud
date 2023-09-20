@@ -14,6 +14,7 @@
   <url>https://www.amigoscode.com</url>
   <modules>
     <module>customer</module>
+      <module>fraud</module>
   </modules>
 
   <properties>
